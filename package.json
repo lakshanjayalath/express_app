@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is a demo application in express with type script",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjaya Lakshan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

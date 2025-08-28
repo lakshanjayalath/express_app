@@ -7,7 +7,7 @@ const PORT = 3000;
 app.use(express.json());
 
 app.get('/', (req, res) =>{
-    res.send('Hello Lakshan');
+    res.send('Hello Dhananjaya Lakshan');
 });
 
 app.listen(PORT, () => {
